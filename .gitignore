@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+
+########
+
+# Whole Ganome file (Large)
+VectorBase-53_AaegyptiLVP_AGWG_Genome.fasta
+
+# test output file
+outputtest/
